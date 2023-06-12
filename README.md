@@ -74,9 +74,3 @@ Information Retrieval System (Search Engine) that utilizes TF-IDF and Word2Vec m
     Endpoint: /search
     Method: POST
     Payload: { "query": "search_query" }
-
-# Todos 
-
-1. Improve Search Results 
-2. Database 
-3. UI
